@@ -1,0 +1,6 @@
+public class krótkiProgram{
+
+public static void main(String[] args)
+
+System.out.println("To jest krótki program");
+}
